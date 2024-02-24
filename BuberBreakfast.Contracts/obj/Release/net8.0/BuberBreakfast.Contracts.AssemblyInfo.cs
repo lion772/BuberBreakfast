@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BuberBreakfast")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BuberBreakfast.Contracts")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+732ed2c3e5c12558d6634405bd8ebfe36ed80940")]
-[assembly: System.Reflection.AssemblyProductAttribute("BuberBreakfast")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BuberBreakfast")]
+[assembly: System.Reflection.AssemblyProductAttribute("BuberBreakfast.Contracts")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BuberBreakfast.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
